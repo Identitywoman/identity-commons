@@ -42,6 +42,36 @@ ISO/IEC 7816
 
 LDAP 
 
+### 1980 
+IETF
+
+### 1982
+Uniform Services Identification Card
+
+### 1985
+X509
+
+### 1987/91
+Kerberos
+
+DNS
+
+# 1990s
+
+### 1990
+Unicode
+
+EFF
+
+### 1991
+RSA
+
+SSL PGP
+
+
+
+
+
 
 
 
