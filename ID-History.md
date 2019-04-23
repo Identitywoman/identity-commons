@@ -1,3 +1,9 @@
+# Here is a community timeline that was created at IIW in 2011
+You are welcome to add more to the timeline and links to the things referenced. 
+
+# Somethings with Dates that are not clear 
+Feel free to look
+
 # Before the 1960's
 
 ### >10,000 BCE
@@ -64,9 +70,8 @@ Unicode
 EFF
 
 ### 1991
-RSA
-
-SSL PGP
+* RSA
+* SSL PGP
 
 
 # 2000s
@@ -74,6 +79,20 @@ SSL PGP
 ### 2003
 * SPML
 * CAN SPAM ACT
+* XFN rel ="me" 
+* Thawte Sells to Verisign
+* UK REgistration and Authentication Policy Framework Published 
+
+### 2004
+* Do Not Call List
+* NIST 800-63 E-Auth Levels of Association
+* IIW is founded
+* OpenID 
+* SXiP
+* FOAF Workshop, Galway Ireland
+* Higgins founded by Mary Ruddy and Paul Travithic
+* US Government ID-Standard HSPD-12 FIPS 201 (August)
+* Kaliya and Doc meet at a Giants Game! 
 
 
 
