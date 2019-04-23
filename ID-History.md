@@ -69,7 +69,11 @@ RSA
 SSL PGP
 
 
+# 2000s
 
+### 2003
+* SPML
+* CAN SPAM ACT
 
 
 
