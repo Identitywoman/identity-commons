@@ -73,8 +73,47 @@ EFF
 * RSA
 * SSL PGP
 
+### 1993
+* EU Art 29
+
+### 1994
+* RSA
+
+### 1996
+* Number Portability
+* HIPPA
+* Tick Box FOR Online Data Sharing
+* ABA-DigiSig Standards
+* LDAP
+
+### 1997
+* PCSC (MSFT)
+
+### 1999
+* DSML
+
 
 # 2000s
+
+### 2000
+* ClueTrain Manifesto
+* Shiboleth Project
+* Computer Freedom and Privacy
+* Liberty Alliance
+* DOD CAC
+
+### 2001
+* SAML 1.0 (completion draft)
+* IDTrust
+* InfoCard/Card Space
+
+### 2002
+* US Federal PKI Bridge goes live
+* HSPD 12 
+* FIPS 201 PN-1
+* Ping Identity 
+* DIDW 
+* ID Commons 1 founded
 
 ### 2003
 * SPML
@@ -82,6 +121,7 @@ EFF
 * XFN rel ="me" 
 * Thawte Sells to Verisign
 * UK REgistration and Authentication Policy Framework Published 
+* ASN Paper Published
 
 ### 2004
 * Do Not Call List
