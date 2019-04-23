@@ -4,4 +4,4 @@ I'm exploring if this is the new "wiki" as a way of co-creating community resour
 
 The first one I am going to create is for the timeline/history of Identity we did many IIWs ago. 
 
-/ID-History
+[Timeline of Identity Events](ID-History)
