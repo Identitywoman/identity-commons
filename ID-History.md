@@ -1,9 +1,6 @@
 # Here is a community timeline that was created at IIW in 2011
 You are welcome to add more to the timeline and links to the things referenced. 
 
-# Somethings with Dates that are not clear 
-Feel free to look
-
 # Before the 1960's
 
 ### >10,000 BCE
