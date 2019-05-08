@@ -9,17 +9,13 @@ Here is a Community Calendar of Calls related to Decentralized Identity & the Ma
 # Tuesday
 ## Sovrin Crypto Meeting 
 **[Sovrin](https://sovrin.org)**
-
-7am Pacific Weekly 
-
+* 7am Pacific Weekly 
 Chairs: Mike Lodder, Nathan George
 
 
 ## VCWG - [Verifiable Credentials Working Group](https://www.w3.org/2017/vc/WG/)
 **W3C Working Group must be W3C Member**
-
-8-9 Pacific Weekly 
-
+* 8-9 Pacific Weekly 
 Chairs: Dan B
 
 ## [Credentials Community Group](https://www.w3.org/community/credentials/) 
