@@ -107,4 +107,11 @@ Chair: Eve Maler
 
 Twitter: [@umawg](https://twitter.com/UMAWG)
 
+
+## DID Spec and DID Resolution
+** W3C Part of Credentials Community Group **  
+* 13:00-14:30 PT 
+
+
+
 # Friday
