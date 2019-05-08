@@ -65,7 +65,7 @@ Chair: Lisa LaVassuer
 
 ## [Consent Management](https://kantarainitiative.org/confluence/display/consentmanagement/WG+-+Consent+Management+Solutions+Home) 
 **[Kantara](https://kantarainitiative.org)+ [ISO](https://www.iso.org/home.html)**
-* Time? Bi Weekly 
+* 7AM PT/10:00 AM ET Bi-Weekly
 
 Chairs: Jim from digi.me and Andrew Hughes
 
