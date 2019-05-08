@@ -5,7 +5,6 @@ Here is a Community Calendar of Calls related to Decentralized Identity & the Ma
 **Decentralized Identity Foundation**
 
 > 11-12 PST Bi-Weekly
-
 > Chairs: Markus Sabodello, Jude Nelson
 
 # Tuesday
