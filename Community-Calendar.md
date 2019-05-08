@@ -37,7 +37,7 @@ Chairs: Kim Hamilton, Christopher Allen, Joe Andrew
 
 # Wednesday
 
-## URSA Crypto meeting
+## [URSA](https://wiki.hyperledger.org/display/ursa) Crypto meeting
 **Hyperledgeer** 
 * 7am Pacific Bi weekly 
 
@@ -45,26 +45,26 @@ Chair: Mike Lodder & Dave Huseby
 
 
 ## All Members Call 
-**Decentralized Identity Foundation** 
+**[Decentralized Identity Foundation](https://identity.foundation/)** 
 * 8-9 Pacific Bi-Weekly 
 
 
 ## Interop Project
-**Decentralized Identity Foundation** 
+**[Decentralized Identity Foundation](https://identity.foundation/)** 
 * 8am Pacific Bi-Weekly (opposite weeks of Member call) 
 
 Chair: Rouven Heck
 
 
 ## Me2Be Community Call
-**Werethinking Foundation**
+**[Werethinking Foundation](https://www.wrethinking.org)**
 * 8-9 on 2nd Wednesday's Monthly
 
 Chair: Lisa LaVassuer
 
 
-## Consent Management 
-**Kantara + ISO**
+## [Consent Management](https://kantarainitiative.org/confluence/display/consentmanagement/WG+-+Consent+Management+Solutions+Home) 
+**[Kantara](https://kantarainitiative.org)+ [ISO](https://www.iso.org/home.html)**
 * Time? Bi Weekly 
 
 Chairs: Jim from digi.me and Andrew Hughes
@@ -79,31 +79,32 @@ Chairs: Sam Curren & Stephan Curran
 
 
 # Thursday 
-## Storage and Compute Working Group
+## [Storage and Compute Working Group](https://identity.foundation/working-groups/storage-compute.html)
 **Decentralized Identity Foundation** 
 * 8-9am pacific Bi-Weekly 
 
-Chairs: 
+Chairs: Daniel Buchner, Sam Curren
 
 
-## CIS Consent Information Sharing Working Group
+## CIS [Consent Information Sharing Working Group](https://kantarainitiative.org/groups/ciswg/)
 **Kantara** 
 * 10:30-11:30 ET (7:30-8:30 PT) Weekly 
 
-Chairs: 
+Chairs: Jim Pasquale, John Wunderlich, Andrew Hughes
 
 
-## ARIES Developer Call
+## [ARIES Developer Call](https://wiki.hyperledger.org/display/ARIES/Hyperledger+Aries)
 **HyperLedger** 
 * 8am PT 
 
 Chairs: Sean Bohan, Nathan George I
 
-## UserManaged Access
+## [UserManaged Access](https://kantarainitiative.org/confluence/display/uma/Home)
 **Kantara**
 * 6am pacific time/9am Eastern
 
-@umawg
-tinyurl.com 
+Chair: Eve Maler 
+
+Twitter: [@umawg](https://twitter.com/UMAWG)
 
 # Friday
