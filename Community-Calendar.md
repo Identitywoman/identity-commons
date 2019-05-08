@@ -3,9 +3,8 @@ Here is a Community Calendar of Calls related to Decentralized Identity & the Ma
 # Monday 
 ## [Identifiers Names and Discovery](https://identity.foundation/working-groups/identifiers-names-discovery.html) 
 **Decentralized Identity Foundation**
-
-> 11-12 PST Bi-Weekly
-> Chairs: Markus Sabodello, Jude Nelson
+* 11-12 PST Bi-Weekly
+* Chairs: Markus Sabodello, Jude Nelson
 
 # Tuesday
 ## Sovrin Crypto Meeting 
