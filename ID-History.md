@@ -1,4 +1,4 @@
-# Here is a community timeline that was created at IIW in 2011
+# Here is a community timeline that was created at IIW in 2011 & renewed at IIW 28 in 2019
 You are welcome to add more to the timeline and links to the things referenced. 
 
 # Before the 1960's
@@ -346,6 +346,16 @@ Chinese Government hacks into Google Gmail Servers, stealing information by and 
 * New NIST Password Requirements   800-63-3
 
 ### 2019
+
+* January 15, The Age of Surveillance Capitalism published by Shoshana Zuboff
+* IEEE standard on consent is coming out soon. 
+* April 4 - Hyperledger Indy to Active Status 
+* April 10  - Android devices with fingerprint reader as FIDO key -
+* Microsoft Distributed Identity Whitepaper 
+* DID working group being defined at W3C 
+* We are in the DLT enthusiasm era. 
+* Just Launched the ultraFICO scored + Experian Boost putting consumers in control of their data.
+* Sovrin Live
 
 
 ### 2020
