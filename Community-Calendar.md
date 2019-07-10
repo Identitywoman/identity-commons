@@ -11,6 +11,8 @@ Chairs: Markus Sabodello, Jude Nelson
 # Tuesday
 ## Sovrin Crypto Meeting 
 **[Sovrin](https://sovrin.org)**
+* [Agenda](https://docs.google.com/document/d/1M3zgsRoOxlkjNPbDp4_7YWxuqO2EyefOT3Bt7ZgGIDY/edit#)
+* [Zoom Link](https://zoom.us/j/567114224) 
 * 7am Pacific Weekly 
 
 Chairs: Mike Lodder, Nathan George
@@ -31,14 +33,14 @@ Chairs: Kim Hamilton, Christopher Allen, Joe Andrew
 
 
 ## Semantics Working Group 
-**Hyperledger Indy - AREIS?** 
-* 10-11:15  Bi-Weekly (Next May 14)
-
+**Hyperledger Indy** 
+* [Semantics Rocket.Chat Link](https://chat.hyperledger.org/channel/indy-semantics)
+* 10-11:15 Pacific Bi-Weekly
 
 # Wednesday
 
-## [URSA](https://wiki.hyperledger.org/display/ursa) Crypto meeting
-**Hyperledgeer** 
+## Ursa Cryptography Working Group
+**[Hyperledger Ursa](https://wiki.hyperledger.org/display/ursa)** 
 * 7am Pacific Bi weekly 
 
 Chair: Mike Lodder & Dave Huseby
@@ -70,12 +72,18 @@ Chair: Lisa LaVassuer
 Chairs: Jim from digi.me and Andrew Hughes
 
 
+## [Identity Working Group](https://wiki.hyperledger.org/display/IWG/Identity+Working+Group) 
+**Hyperledger**
+* 9 AM Pacific Bi-Weekly
+
+Chair: Vipin Bharathan
+
+
 ## [ARIES Developer Call](https://wiki.hyperledger.org/display/ARIES/Hyperledger+Aries) 
 **Hyperledger (Formerly Indy Agent)**
-* 12-1:30 Pacific
+* 12-1:30 Pacific Weekly
 
 Chairs: Sam Curren & Stephan Curran 
-
 
 
 # Thursday 
@@ -93,7 +101,7 @@ Chairs: Daniel Buchner, Sam Curren
 Chairs: Jim Pasquale, John Wunderlich, Andrew Hughes
 
 
-## [ARIES Developer Call](https://wiki.hyperledger.org/display/ARIES/Hyperledger+Aries)
+## [Indy Working Group](https://wiki.hyperledger.org/display/indy/Hyperledger+Indy)
 **HyperLedger** 
 * 8am PT 
 
